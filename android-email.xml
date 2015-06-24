@@ -3,10 +3,10 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
-  <default revision="refs/tags/android-4.0.4_r1"
+  <default revision="refs/tags/android-4.0.4_r2"
            remote="aosp"
            sync-j="4" />
-
+       
   <project path="android/frameworks/ex" name="platform/frameworks/ex" groups="pdk-cw-fs" />
   <!--project path="android/frameworks/opt/chips" name="platform/frameworks/opt/chips" groups="pdk-cw-fs" /-->
   <project path="android/frameworks/opt/mailcommon" name="platform/frameworks/opt/mailcommon" />
@@ -17,4 +17,5 @@
   <project path="android/packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="android/packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" groups="pdk-cw-fs" />
   <project path="android/packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" groups="pdk-cw-fs" />
+  <project path="android/platform/external/sqlite" name="platform/external/sqlite" />
 </manifest>
