@@ -23,5 +23,5 @@
   <project path="android/packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
   <project path="android/packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" />
   <project path="android/packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
-
+  <project path="android/packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" />
 </manifest>
