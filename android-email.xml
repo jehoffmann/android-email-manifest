@@ -9,9 +9,12 @@
        
   <project path="android/frameworks/opt/bitmap" name="platform/frameworks/opt/bitmap" />
   <project path="android/frameworks/opt/calendar" name="platform/frameworks/opt/calendar" />
+  <project path="android/frameworks/opt/colorpicker" name="platform/frameworks/opt/colorpicker" />
   <project path="android/frameworks/opt/chips" name="platform/frameworks/opt/chips" />
   <project path="android/frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" />
   <project path="android/frameworks/opt/datetimepicker" name="platform/frameworks/opt/datetimepicker" />
+  <project path="android/frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" />
+  <project path="android/packages/apps/Calendar" name="platform/packages/apps/Calendar" />
   <project path="android/packages/apps/Email" name="platform/packages/apps/Email" />
   <project path="android/packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="android/packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" />
