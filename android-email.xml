@@ -14,9 +14,13 @@
   <project path="android/frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" />
   <project path="android/frameworks/opt/datetimepicker" name="platform/frameworks/opt/datetimepicker" />
   <project path="android/frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" />
+  <project path="android/frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
   <project path="android/packages/apps/Calendar" name="platform/packages/apps/Calendar" />
+  <project path="android/packages/apps/Contacts" name="platform/packages/apps/Contacts" />
+  <project path="android/packages/apps/ContactsCommon" name="platform/packages/apps/ContactsCommon" />
   <project path="android/packages/apps/Email" name="platform/packages/apps/Email" />
   <project path="android/packages/apps/Exchange" name="platform/packages/apps/Exchange" />
+  <project path="android/packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
   <project path="android/packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" />
 
 </manifest>
